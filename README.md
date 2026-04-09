@@ -49,7 +49,6 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alae-bouzekraoui&show_icons=true&theme=tokyonight" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alae-bouzekraoui&theme=tokyonight" height="165" />
 </p>
 
