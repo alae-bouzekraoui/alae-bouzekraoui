@@ -1,12 +1,9 @@
-<h1 align="center">👋 Hi, I'm Alae </h1>
+<h1 align="center">Hi, I'm Alae </h1>
 <h3 align="center">Engineering student in AI & Computer Science | Building AI, Data & Software projects</h3>
 
-<br>
+
 
 ##  About Me
-
-
-
 - 🎓 Engineering student at **ENSAM Casablanca**
 - 🧠 Specialized in **Artificial Intelligence & Computer Science**
 - 💡 Interested in **Data Analytics** & **Machine Learning**
@@ -14,10 +11,8 @@
 - 📧 How to reach me alae.bouzekraoui@gmail.com
 
 
-<br>
 
 ##  Languages and Tools
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-EA2D2E?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -42,11 +37,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-
 <br>
-
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alae-bouzekraoui&theme=tokyonight" height="165" />
 </p>
-
